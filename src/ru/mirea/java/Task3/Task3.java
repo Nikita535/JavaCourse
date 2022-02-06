@@ -1,4 +1,4 @@
-package ru.mirea.lab2;
+package ru.mirea.java.Task3;
 
 import java.util.*;
 import java.util.regex.*;

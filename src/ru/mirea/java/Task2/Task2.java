@@ -1,4 +1,4 @@
-package ru.mirea.lab2;
+package ru.mirea.java.Task2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

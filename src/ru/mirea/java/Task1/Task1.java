@@ -1,4 +1,4 @@
-package ru.mirea.lab2;
+package ru.mirea.java.Task1;
 import java.util.*;
 public class Task1 {
     public static void sumDig(){
